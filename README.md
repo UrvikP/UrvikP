@@ -1,6 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Urvik Patel ===================================================================================================================================  
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Urvik Patel =================================================================================================================================== 
+
 Software Engineer 
 -----------------  
+
 I graduated from CUNY Queens College in 2023 with BA in Computer Science. Since then I've been working hard to improve my skills on my own time while working part time in the customer service industry. I have a robust set of soft skills honed through years of working different jobs and through college. I want to break into tech and work with other experts in the industry to improve my skills and contribute towards projects that I care about.  * 🌍  I'm based in New York * ✉️  You can contact me at [urvik95@gmail.com](mailto:urvik95@gmail.com) * 🧠  I'm learning JavaScript, Python, TensorFlow * 🤝  I'm open to collaborating on Web Applications (FrontEnd and BackEnd)
 
 ### Skills  
