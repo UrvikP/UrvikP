@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer 
 -----------------  
 
-I graduated from CUNY Queens College in 2023 with BA in Computer Science. Since then I've been working hard to improve my skills on my own time while working part time in the customer service industry. I have a robust set of soft skills honed through years of working different jobs and through college. I want to break into tech and work with other experts in the industry to improve my skills and contribute towards projects that I care about.  
+I graduated from CUNY Queens College in 2023 with a BA in Computer Science. Since then, I’ve been diligently enhancing my technical skills while working part-time in the customer service industry. My diverse work experience has equipped me with a strong set of soft skills, including communication, problem-solving, and teamwork.
+
+I’m passionate about breaking into the tech industry, where I aim to collaborate with experts, continuously learn, and contribute to meaningful projects. I’m excited to bring my dedication and enthusiasm to a dynamic team and make a positive impact.  
 
  * 🌍  I'm based in New York
  * ✉️  You can contact me at [urvik95@gmail.com](mailto:urvik95@gmail.com)
